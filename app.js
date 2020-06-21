@@ -761,6 +761,86 @@
 // }
 
 
+// chapter 14-16
+
+
+// Q1        // var arr = [];
+
+// Q2        // var ob = {};
+
+// Q3        // var string = ["a" , "b" , "c"];
+
+// Q4        // var number = [1, 2, 3,4];
+
+// Q5        // var boolarr = [true , false];
+
+// Q6        // var mixedArr = ["Apple",{1: "Pie", 2: "Dumpling", 3: "Cider"}, "Banana", {1: "Bread", 2: "Republic"}];
+
+// Q7        // var qua = ["SSC", "HSC" , "BCS" , "BS" , "BCOM" , "MS" , "M.Phil" , "PHD"];
+//         // document.write(qua[0] + "<br>");
+//         // document.write(qua[1] + "<br>");
+//         // document.write(qua[2] + "<br>");
+//         // document.write(qua[3] + "<br>");
+//         // document.write(qua[4] + "<br>");
+//         // document.write(qua[5] + "<br>");
+//         // document.write(qua[6] + "<br>");
+//         // document.write(qua[7] + "<br>");
+
+// Q8        // var names = ["Michael" , "John" , "Tony"];
+//         // var score = [320 , 230 , 480];
+//         // var total = 500;
+//         // document.write("Score of" +" "+ names[0] +" "+ "is" +" "+ score[0] +" "+ "Persentage" +" "+ score[0] / total * 100 + "%" + "<br>");
+//         // document.write("Score of" +" "+ names[1] +" "+ "is" +" "+ score[1] +" "+ "Persentage" +" "+ score[1] / total * 100 + "%" + "<br>");
+//         // document.write("Score of" +" "+ names[2] +" "+ "is" +" "+ score[2] +" "+ "Persentage" +" "+ score[2] / total * 100 + "%" + "<br>");
+
+// Q9        // var start = prompt("Add to Start");
+//         // var color = [start ,"red" , "blue" , "pink" , "yellow"];
+//         // console.log(color);
+
+//         // var end = prompt("Add to End");
+//         // var color2 = ["red" , "blue" , "pink" , "yellow" , end];
+//         // console.log(color2);
+
+//         // var color2 = ["red" , "blue" , "pink" , "yellow"];
+//         // color2.unshift("orange" , "white" , "gray");
+//         // console.log(color2);
+
+//         // var color2 = ["red" , "blue" , "pink" , "yellow"];
+//         // color2.shift();
+//         // console.log(color2);
+
+//         // var color2 = ["red" , "blue" , "pink" , "yellow"];
+//         // console.log(color2);
+//         // color2.pop();
+//         // console.log(color2);
+
+// Q10    
+        //  var a = [320 , 230 , 480 , 120];
+        //  a.sort();
+        //  console.log(a);  
+         
+// Q11        //  var cities = ["karachi" , "lahore" , "islamabad" , "pishawar"];
+//         //  document.write(cities + "<br>");
+//         //  document.write("Select cities is\n" + cities[1],cities[2]);
+        
+// Q12        // var a = ["This" , "is" , "my" , "cat"];
+//         // var b = a.join(" ");
+//         // document.write(b);
+        
+// Q13        // var a = ["My" , "name" , "is" , "is" , "areej"];
+//         // var b = a.sort(" ");
+//         // document.write(b);
+
+// Q14        // var a = ["My" , "name" , "is" , "areej"];
+//         // var b = a.reverse();
+//         // document.write(b);
+
+// Q15        function display() {
+//             var obj = document.getElementById("selectNow");
+//             document.write(obj.options[obj.selectedIndex].text);
+//          }
+
+
 
 
    // chapter 17-20
